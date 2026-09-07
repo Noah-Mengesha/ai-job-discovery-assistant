@@ -1,0 +1,22 @@
+{
+  "interval_hours": 3,
+  "greenhouse_boards": [],
+  "lever_sites": [],
+  "title_keywords": [
+    "software engineer",
+    "software developer",
+    "backend",
+    "frontend",
+    "full stack",
+    "web developer",
+    "application developer",
+    "programmer analyst",
+    "IT analyst",
+    "cloud engineer",
+    "data analyst",
+    "QA engineer"
+  ],
+  "location_keywords": [],
+  "exclude_senior": true,
+  "exclude_internships": false
+}
